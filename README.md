@@ -1,7 +1,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Duarte</em>. I am a Fullstack developer... 
+    Hi, I'm <em>Duarte</em>. I am a Fullstack developer... 
   <br/> Javascript enthusiast... NextJs and NodeJs lover. ReactJs addict. React Native Fanatic
   
   </samp>
