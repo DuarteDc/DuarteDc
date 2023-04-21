@@ -1,13 +1,9 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Duarte</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
-      <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
+    My name is <em>Duarte</em>. I am a Fullstack developer... 
+  <br/> Javascript enthusiast... NextJs and NodeJs lover. ReactJs addict. React Native Fanatic
+  
   </samp>
   <br/>
   <br/>
