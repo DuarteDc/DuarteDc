@@ -68,11 +68,14 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats
-<!--
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuarteDc&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/DuarteDc) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuarteDc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuarteDc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DuarteDc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DuarteDc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=DuarteDc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteDc&theme=tokyonight&show_icons=true" />
+<img src="https://raw.githubusercontent.com/DuarteDc/DuarteDc/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuarteDc&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DuarteDc" /></p>
+###
