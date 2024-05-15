@@ -10,7 +10,6 @@
     Fullstack web developer autodidact passionate for develop and softare engineer.
     I like write clean code, keeping confort and peformance.
     I'm a person proactive, always i've in searching to acquire knowledge try new technologies and face challenges.
-  I like to Busy Sweets a My Compa. Abraham10VelGlez
   <br/>
   <br/>
   <br/>
