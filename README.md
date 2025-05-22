@@ -58,6 +58,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="40" alt="laravel logo"  />
 </div>
   
 <!--
