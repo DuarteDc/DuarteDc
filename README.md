@@ -1,19 +1,38 @@
+# 👋 Hi there! I'm DuarteBv
 
-<p align="center" >
-  <samp>
-     Hi, I'm Duarte</em>. I'm a fullstack web developer autodidact passionate for develop and softare engineer.
-  <br/> Javascript enthusiast... NextJs and NodeJs lover. ReactJs addict. React Native Fanatic
-  </samp>
-  <br/>
-  <br/>
-  <br/>
-    Fullstack web developer autodidact passionate for develop and softare engineer.
-    I like write clean code, keeping confort and peformance.
-    I'm a person proactive, always i've in searching to acquire knowledge try new technologies and face challenges.
-  <br/>
-  <br/>
-  <br/>
-</p>
+I'm a **full stack developer** passionate about building modern, efficient, and scalable web applications. I specialize in creating rich, data-driven interfaces with **React**, **Tailwind CSS**, and **NextUI**, and I work across backends powered by **Node.js (TypeScript)**, **Laravel (PHP)**, and **Go (Golang)**.
+
+I'm comfortable designing complex systems from relational data modeling to real-time frontend interactions and I often work with **Docker**, CI/CD pipelines, and advanced **hierarchical data handling**.
+
+---
+
+## 🚀 What I Do
+
+- ⚛️ Build responsive and accessible UIs with React, including view transitions, virtualization, and custom D3/SVG visualizations.
+- 🛠️ Design robust backend services using Node.js (TS), Laravel, and Go—focusing on clean architecture and performance.
+- 🚀 Automate deployments with GitHub Actions, including QA → Production flows using self-hosted runners.
+- 🌳 Manage and validate deeply nested **hierarchical data structures**.
+- 🔔 Integrate Web Push notifications, Google Maps with clustering, and data encryption with `crypto-js`.
+
+---
+
+## 🧠 Interests
+
+- Clean architecture & scalable backend design  
+- Fast, intuitive user experiences  
+- Visualizing complex structures  
+- CI/CD workflows for small, agile teams  
+- Learning Go for concurrent and systems-level programming  
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Frontend:  React, NextUI, Tailwind CSS, Redux, SVG  
+Backend:   Node.js (TypeScript), ExpressJs, Go, Laravel (PHP), MySQL, Mongo  
+DevOps:    Docker, GitHub Actions, Self-hosted runners  
+```
 
   ### Tools And Languages 🛠
 
